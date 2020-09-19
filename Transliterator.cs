@@ -41,7 +41,7 @@ namespace TransliterationLibrary
 
 		private static string TryTransliterateLetter(JObject transliterationDictionary, char letter)
 		{
-			if (char.IsDigit(letter))
+			if (!char.IsLetter(letter))
 			{
 				return letter.ToString();
 			}
