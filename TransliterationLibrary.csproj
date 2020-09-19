@@ -9,6 +9,8 @@
     <RepositoryUrl>https://github.com/Sterlukin/TransliterationLibrary</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Copyright>Made by Sterlukin</Copyright>
+    <PackageLicenseUrl>https://github.com/Sterlukin/TransliterationLibrary/blob/master/License.txt</PackageLicenseUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>
