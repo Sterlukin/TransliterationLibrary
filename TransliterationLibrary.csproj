@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>TransliterationLibrary</PackageId>
+    <Authors>Sterlukin</Authors>
+    <Product>TransliterationLibrary</Product>
+    <Description>Managed opensource Transliteration library. You can append it by your own language in Config.json</Description>
+    <RepositoryUrl>https://github.com/Sterlukin/TransliterationLibrary</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright>Made by Sterlukin</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
